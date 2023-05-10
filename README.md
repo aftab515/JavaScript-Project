@@ -11,3 +11,6 @@ https://user-images.githubusercontent.com/114320334/225865532-9b2a87ad-0e24-4c23
 ## EMI-Calculator
 <img width="940" alt="EMI" src="https://user-images.githubusercontent.com/114320334/236810192-2a478041-ff74-49d1-99fc-494f65c5dddf.PNG">
 <img width="933" alt="EMI Cal" src="https://user-images.githubusercontent.com/114320334/236810213-68e90903-2897-44fc-8d3b-00b8aefaef1b.PNG">
+
+## Palindrome Checker
+<img width="313" alt="palindrome" src="https://github.com/aftab515/Random-Projects/assets/114320334/4f1ec755-9387-4865-8d70-89fe889a4fe7">
