@@ -14,3 +14,6 @@ https://user-images.githubusercontent.com/114320334/225865532-9b2a87ad-0e24-4c23
 
 ## Palindrome Checker
 <img width="313" alt="palindrome" src="https://github.com/aftab515/Random-Projects/assets/114320334/4f1ec755-9387-4865-8d70-89fe889a4fe7">
+
+## Text Formatter
+<img width="950" alt="Text" src="https://github.com/aftab515/Random-Projects/assets/114320334/fad283e2-516f-4900-9bfa-57f224fe41b6">
