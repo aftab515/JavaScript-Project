@@ -17,3 +17,6 @@ https://user-images.githubusercontent.com/114320334/225865532-9b2a87ad-0e24-4c23
 
 ## Text Formatter
 <img width="950" alt="Text" src="https://github.com/aftab515/Random-Projects/assets/114320334/fad283e2-516f-4900-9bfa-57f224fe41b6">
+
+## Alpha-mail-demo
+<img width="939" alt="mail" src="https://github.com/aftab515/Random-Projects/assets/114320334/a10eae4a-41e0-439e-8b7b-b102c5f134dc">
