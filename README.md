@@ -20,3 +20,6 @@ https://user-images.githubusercontent.com/114320334/225865532-9b2a87ad-0e24-4c23
 
 ## Alpha-mail-demo
 <img width="939" alt="mail" src="https://github.com/aftab515/Random-Projects/assets/114320334/a10eae4a-41e0-439e-8b7b-b102c5f134dc">
+
+## Word Counter
+<img width="952" alt="Word counter" src="https://github.com/aftab515/Random-Projects/assets/114320334/3fc6d25c-24be-4ce1-ae71-b85744efcfc8">
