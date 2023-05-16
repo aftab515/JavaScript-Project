@@ -23,3 +23,6 @@ https://user-images.githubusercontent.com/114320334/225865532-9b2a87ad-0e24-4c23
 
 ## Word Counter
 <img width="952" alt="Word counter" src="https://github.com/aftab515/Random-Projects/assets/114320334/3fc6d25c-24be-4ce1-ae71-b85744efcfc8">
+
+## Home-Chrome-Redesigned-by-Alpha
+<img width="951" alt="Google redesign" src="https://github.com/aftab515/Random-Projects/assets/114320334/347b41e3-3963-4473-8547-225acc3b79b1">
